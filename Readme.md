@@ -86,3 +86,23 @@ Click the thumbnail to watch or go to this URL: https://www.youtube.com/watch?v=
 [![HaiderAtta](/Viz/MusicVideo.png)](https://www.youtube.com/watch?v=9rzmY5VFnOY "Haider Atta - You & I. Click to watch")
 Click the thumbnail to watch or go to this URL: https://www.youtube.com/watch?v=9rzmY5VFnOY
 
+## Graphic Designing
+
+Graphics and Social Media Manager - Bondh e Shams (Water Charity)
+
+![Monday](/Viz/MotivationMonday-1.png)
+![7K Milestone](/Viz/7KMilestone-WorldMap.png)
+![EventCover](/Viz/Fundraiser-EventCoverDimensions-1920by1080.png)
+
+Book Cover for a friend
+![Book](/Viz/Book-NoCamo.png)
+
+University Yearbook - People
+![UY-People](/Viz/Quotes.png)
+
+University Yearbook - Back 
+![UY-Back](/Viz/BackCover.png)
+
+University Yearbook - Team Page
+![UY-Team](/Viz/TeamPage.png)
+
