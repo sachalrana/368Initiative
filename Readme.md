@@ -17,22 +17,58 @@ If you like my work, reach out to me on :
 
 ![This is a person](/Viz/Portrait-2.jpg)
 
-![This is a person](/Viz/Portrait-3.jpg)
-
 ![This is a person](/Viz/Portrait-4.jpg)
 
 ![This is a person](/Viz/Portrait-5.jpg)
 
 ![Pixel2XLPS4](/Viz/DSC_5898.jpg)
 
-![Pixel2XLPS4](/Viz/DSC_5898.jpg)
+![Ladybird](/Viz/Macro.jpg)
 
-### Landscapes
+![Coldplay](/Viz/Coldplay-1.jpg)
 
+![Coldplay](/Viz/Coldplay-2.jpg)
+
+![Coldplay](/Viz/Coldplay-3.jpg)
+
+![DC](/Viz/DSC_4152.jpg)
+
+![DC](/Viz/DSC_4163.jpg)
+
+![DC](/Viz/DSC_8456.jpg)
+
+![DC](/Viz/DSC_8638.jpg)
+
+![LA](/Viz/LA-1.jpg)
+
+![LA](/Viz/LA-4.jpg)
+
+![NYC](/Viz/NYC-2.jpg)
+
+![Utah-1](/Viz/Utah-1.jpg)
+
+![Utah-2](/Viz/Utah-2.jpg)
+
+![Dance](/Viz/DSC_9176_combined.jpg)
 
 
 ### Panos
 
+![Pan-1](/Viz/Pan-1.jpg)
+
+![Pan-2](/Viz/Pan-2.jpg)
+
+![Pan-3](/Viz/Pan-3.jpg)
+
+![Pan-4](/Viz/Pan-4.jpg)
+
+![Pan-5](/Viz/Pan-5.jpg)
+
+![Pan-6](/Viz/Pan-6.jpg)
+
+![Pan-7](/Viz/Pan-7.jpg)
+
+![Pan-9](/Viz/Pan-9.jpg)
 
 
 ## Videography
@@ -45,6 +81,4 @@ YouTube link
 
 ### Music Video
 
-
-## Design
 
