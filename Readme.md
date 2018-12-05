@@ -83,6 +83,6 @@ Click the thumbnail to watch or go to this URL: https://www.youtube.com/watch?v=
 Click the thumbnail to watch or go to this URL: https://www.youtube.com/watch?v=00dirsg04qc
 
 ### Haider Atta - You&I (Music Video)
-[![HaiderAtta](/Viz/NYCVid.png)](https://www.youtube.com/watch?v=9rzmY5VFnOY "Haider Atta - You & I. Click to watch")
+[![HaiderAtta](/Viz/MusicVideo.png)](https://www.youtube.com/watch?v=9rzmY5VFnOY "Haider Atta - You & I. Click to watch")
 Click the thumbnail to watch or go to this URL: https://www.youtube.com/watch?v=9rzmY5VFnOY
 
