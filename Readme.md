@@ -75,11 +75,12 @@ If you like my work, reach out to me on :
 ## Videography
 
 ### Coldplay - A Head Full of Dreams Tour 2017
-Coldplay 1 - YouTube link
+[![Coldplay](/Viz/CP-1.png)](https://www.youtube.com/watch?v=NkLoDe9TQJo "Coldplay A Head Full of Dreams Tour 2017 DC. Click to watch")
 
 ### Lost in Transition
 YouTube link
 
 ### Music Video
+(https://www.youtube.com/watch?v=9rzmY5VFnOY)
 
 
