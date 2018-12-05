@@ -92,10 +92,10 @@ Graphics and Social Media Manager - Bondh e Shams (Water Charity)
 
 ![Monday](/Viz/MotivationMonday-1.png)
 ![7K Milestone](/Viz/7KMilestone-WorldMap.png)
-![EventCover](/Viz/Fundraiser-EventCoverDimensions-1920by1080.png)
+![EventCover](/Viz/Fundraiser-EventCoverDimensions-1920by1080.jpg)
 
 Book Cover for a friend
-![Book](/Viz/Book-NoCamo.png)
+![Book](/Viz/Book-NoCamo.jpg)
 
 University Yearbook - People
 ![UY-People](/Viz/Quotes.png)
