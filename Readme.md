@@ -47,7 +47,7 @@ If you like my work, reach out to me on :
 
 ![Utah-1](/Viz/Utah-1.jpg)
 
-![Utah-2](/Viz/Utah-2.jpg)
+![Utah-5](/Viz/Utah-5.jpg)
 
 ![Dance](/Viz/DSC_9176_combined.jpg)
 
@@ -68,7 +68,7 @@ If you like my work, reach out to me on :
 
 ![Pan-7](/Viz/Pan-7.jpg)
 
-![Pan-9](/Viz/Pan-9.jpg)
+![Pan-9](/Viz/Pan-9.png)
 
 
 ## Videography
