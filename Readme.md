@@ -2,7 +2,7 @@
 
 This repository has been made exclusively for the Adobe 368 initiative.
 
-This is the perfect assignement for me to collaborate with the best content creators and learn more in regards to how multiple creative minds from all walks of life come together to make content. I never have had the chance to work on a very large scale project and I would use this opportunity to put my hobby to work and in the process, learn even more from other creative people.   
+This is the perfect assignment for me to collaborate with the best content creators and learn more in regards to how multiple creative minds from all walks of life come together to make content. I never have had the chance to work on a very large scale project and I would use this opportunity to put my hobby to work and in the process, learn even more from other creative people.   
 
 All of the work below; from shooting to editing has been done by myself.
 If you like my work, reach out to me on :
